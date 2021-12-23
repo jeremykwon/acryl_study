@@ -1,5 +1,6 @@
 # JP Division Study
-아크릴에서 진행 중인 스터디 자료를 모아놓은 곳
+아크릴에서 진행 중인 스터디 자료를 모아놓은 곳  
+[목차](https://github.com/Dawson-Park/jpStudy/blob/main/README.md)
 
 ## Next Subject | 22.01.04
 [예정](예정)
