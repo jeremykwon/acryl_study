@@ -6,7 +6,10 @@
 - [실습환경 - git 저장소](https://github.com/KMJ192/custom-react)
 
 > 22-01-04
-> [virtual DOM 정리](https://medium.com/@myeongjun222/%EA%B0%80%EC%83%81-%EB%8F%94-virtual-dom-2b8ca02e0ab6)
+
+- [virtual DOM 정리](https://medium.com/@myeongjun222/%EA%B0%80%EC%83%81-%EB%8F%94-virtual-dom-2b8ca02e0ab6)
+- [React diffing algorithm - heuristic](https://kmj24.tistory.com/221)
+- [React diffing algorithm - fiber](https://kmj24.tistory.com/222)
 
 - custom virtual dom
 
