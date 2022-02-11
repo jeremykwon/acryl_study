@@ -2,12 +2,12 @@
 아크릴에서 진행 중인 스터디 자료를 모아놓은 곳  
 [목차](https://github.com/Dawson-Park/jpStudy/blob/main/README.md)
 
-## Redux Saga | 22.01.27
+## Redux Saga | 22.02.07
 [Redux Saga에 대해 Araboza](https://github.com/Dawson-Park/jpStudy/blob/main/22-Jan-5th/redux-saga.md#redux-saga)
 
 > 제너레이터 함수와 리덕스 사가를 사용할 수 있다
 
-## Redux Middleware | 22.01.27
+## Redux Middleware | 22.02.07
 [Redux Middleware에 대해 Araboza](https://github.com/Dawson-Park/jpStudy/blob/main/22-Jan-5th/redux-middleware.md#redux-middleware)
 
 > 리덕스 미들웨어와 리덕스 썽크, 리덕스 프로미스 미들웨어를 사용할 수 있다
