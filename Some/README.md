@@ -60,6 +60,11 @@ const creatRealDom = (root: Element, dom?: customElement[] | null) => {
 };
 ```
 
+> 22-02-17
+
+- [Redux 메커니즘에 대한 이해](https://medium.com/@myeongjun222/redux-%EA%B5%AC%ED%98%84-43dcbdee1671)
+- [실습환경 - git 저장소(redux 포함, custom라이브러리 react-redux 연결)](https://github.com/KMJ192/custom-react)
+
 ### todo list
 
 - react hooks 메커니즘 학습
