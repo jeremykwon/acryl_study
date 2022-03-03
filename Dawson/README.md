@@ -2,6 +2,11 @@
 아크릴에서 진행 중인 스터디 자료를 모아놓은 곳  
 [목차](https://github.com/Dawson-Park/jpStudy/blob/main/README.md)
 
+## MobX | 22.03.03
+[MobX에 대해 Araboza](https://github.com/Dawson-Park/jpStudy/blob/main/22-Feb-4th/mobx.md#mobx)
+
+> MobX가 무엇인지, 어떻게 써야하는 지 알 수 있다
+
 ## Redux Saga | 22.02.07
 [Redux Saga에 대해 Araboza](https://github.com/Dawson-Park/jpStudy/blob/main/22-Jan-5th/redux-saga.md#redux-saga)
 
